@@ -1,0 +1,7 @@
+README.md
+dynamo_hook.c
+setup.py
+dynamo_hook.egg-info/PKG-INFO
+dynamo_hook.egg-info/SOURCES.txt
+dynamo_hook.egg-info/dependency_links.txt
+dynamo_hook.egg-info/top_level.txt
